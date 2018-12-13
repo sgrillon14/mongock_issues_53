@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: sgrillon
+      host: xxxxxxxxxxxxxxxxxx.net
+      port: 27017
+      username: sgrillon
+      password: password
+      authentication-database: admin
